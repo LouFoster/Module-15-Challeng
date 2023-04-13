@@ -1,5 +1,4 @@
-# Module-15-Challenge
-## Module 15 Challenge 
+# Module 15 Challenge 
 
 # Overview:
 
@@ -28,65 +27,10 @@ By the end of this module, I will be able to:
 **#Files/Data
 **Use the following link to download the Challenge starter code. Download the NYC CitiBike starter code.
 
-  •	For this challenge, we'll use data from the Citi Bike program in New York City. The data you'll download will be contained in a flat file, a CSV.
-
-  •	Go to the Citi Bike System Data page Links to an external site.. In the "Citi Bike Trip Histories" section, click the link that says "downloadable files of Citi Bike trip data."
-
 
 **### Instructions
 **
-# Deliverable 1: Change Trip Duration to a Datetime Format (20 points)
-
-  •	Using Python and Pandas functions, you’ll convert the "tripduration" column from an integer to a datetime datatype to get the time in hours, minutes, and seconds (00:00:00). After you convert the "tripduration" column to a datetime dataytpe, you’ll export the DataFrame as a CSV file to use for the trip analysis in Deliverable 2.
-
-  •	Follow the instructions below to complete Deliverable 1.
-
-  1.	Download the NYC_CitiBike_Challenge_starter_code.ipynb file into your bikesharing folder, and rename it NYC_Citibike_Challenge.ipynb.
-
-
-
-## Module 15 Challenge 
-
-# Overview:
-
-As the assigned Data Analyst, for this project, I will work with data visualization software called Tableau to present a business proposal for a bike-sharing company. In addition, for this analysis, as the assigned Data Analyst, I will use Pandas to change the "tripduration" column from an integer to a datetime datatype. Lastly, I will add these new visualizations to the two created (in this module) for my final presentation and analysis to pitch to investors.
-
-**##Purpose
-**
-Using  the converted datatype, I will create a set of visualizations to:
-
-  •	Show the length of time that bikes are checked out for all riders and genders
-
-  •	Show the number of bike trips for all riders and genders for each hour of each day of the week
-
-  •	Show the number of bike trips for each type of user and gender for each day of the week.
-
-By the end of this module, I will be able to:
-  •	Import data into Tableau.
-
-  •	Create and style worksheets, dashboards, and stories in Tableau.
-
-  •	Use Tableau worksheets to display data in a professional way.
-
-  •	Portray data accurately using Tableau dashboards.
-
-
-**##Deliverables 
-**
-  •	Deliverable 1: Change Trip Duration to a Datetime Format
-
-  •	Deliverable 2: Create Visualizations for the Trip Analysis
-
-  •	Deliverable 3: Create a Story and Report for the Final Presentation
-
-**#Files/Data
-**Use the following link to download the Challenge starter code. Download the NYC CitiBike starter code.
-
-•	For this challenge, we'll use data from the Citi Bike program in New York City. The data you'll download will be contained in a flat file, a CSV.
-
-•	Go to the Citi Bike System Data page Links to an external site.. In the "Citi Bike Trip Histories" section, click the link that says "downloadable files of Citi Bike trip data."
-
-
+ 
 ### Instructions
 
 # Deliverable 1: Change Trip Duration to a Datetime Format (20 points)
@@ -96,8 +40,6 @@ By the end of this module, I will be able to:
 •	Follow the instructions below to complete Deliverable 1.
 
  1.	Download the NYC_CitiBike_Challenge_starter_code.ipynb file into your bikesharing folder, and rename it NYC_Citibike_Challenge.ipynb.
-
- ![image](https://user-images.githubusercontent.com/117233641/231678001-1d4c41f4-822a-4950-b64d-f3fcc47f67b3.png)
 
 2.	Use the instructions below to add code where indicated by the numbered-step comments in the starter code file. We have provided the dependencies you will need for this challenge.
 
