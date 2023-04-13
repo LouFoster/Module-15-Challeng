@@ -9,11 +9,11 @@ As the assigned Data Analyst, for this project, I will work with data visualizat
 **
 Using  the converted datatype, I will create a set of visualizations to:
 
-  •	Show the length of time that bikes are checked out for all riders and genders
+    •	Show the length of time that bikes are checked out for all riders and genders
 
-  •	Show the number of bike trips for all riders and genders for each hour of each day of the week
+    •	Show the number of bike trips for all riders and genders for each hour of each day of the week
 
-  •	Show the number of bike trips for each type of user and gender for each day of the week.
+    •	Show the number of bike trips for each type of user and gender for each day of the week.
 
 By the end of this module, I will be able to:
   •	Import data into Tableau.
@@ -179,7 +179,7 @@ In this visualization, you’ll graph the length of time that bikes are checked 
 
 3.	Edit the X and Y axis labels by right-clicking on the axis label and selecting "Edit Axis".
 
-![image](https://user-images.githubusercontent.com/117233641/231682176-ad3ac460-4e83-446b-9b71-1a2f92b5c522.png)
+![image](https://user-images.githubusercontent.com/117233641/231873985-3cb6486e-4355-43de-bf4d-2dd0cc0cbbb9.png)
 
 
 **#Create the Trips by Weekday for Each Hour Viz
@@ -444,33 +444,7 @@ See “detailed” answers below
 
 ##Requirements
 
-
-#Deliverable 2: Create Visualizations for the Trip Analysis (50 points)
-
-•	There is a line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour (10 pt)
-
- 
-
-•	There is a line graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender (10 pt)
-
- 
-
-•	A heatmap is created showing the number of bike trips for each hour of each day of the week (10 pt)
-
- 
-
-•	A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender (10 pt)
-
- 
-
-•	A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender (10 pt)
-
- 
-
-
-
-
-##Deliverable 3: Create a Story and Report for the Final Presentation (30 points)
+ #Deliverable 3: Create a Story and Report for the Final Presentation (30 points)
 
 #OVERVIEW:
 (As captured from Data Bootcamp Module 15) 
