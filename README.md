@@ -131,7 +131,7 @@ By the end of this module, I will be able to:
 ![image](https://user-images.githubusercontent.com/117233641/231678700-9ffb2305-ac53-40e9-a0e8-f41d544c24b1.png)
  
 
-EP DIVE
+
 8.	In Step 5, export the DataFrame as a new CSV file without the index column. Use this new CSV file for Deliverable 2.
  
 ![image](https://user-images.githubusercontent.com/117233641/231678760-5bdbd128-c40a-4afa-a921-6231e512957e.png)
@@ -241,26 +241,7 @@ See “detailed” answers below
 ##Requirements
 
 
-#Deliverable 2: Create Visualizations for the Trip Analysis (50 points)
-
-•	There is a line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour (10 pt)
-
  
-
-•	There is a line graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender (10 pt)
-
- 
-
-•	A heatmap is created showing the number of bike trips for each hour of each day of the week (10 pt)
-
- 
-
-•	A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender (10 pt)
-
- 
-
-•	A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender (10 pt)
-
  
 
 
@@ -507,30 +488,26 @@ For this analysis, I will use Pandas to change the "tripduration" column from an
 
 •	Show the number of bike trips for each type of user and gender for each day of the week.
 
-Finally, I will add these new visualizations to the two created in this module for your final presentation and analysis to pitch to investors. To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis.
-
+•	Finally, I will add these new visualizations to the two created in this module for your final presentation and analysis to pitch to investors. To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis.
 
 1.	Results:
-o	There are at least seven visualizations for the NYC Citibike analysis (7 pt)
-
-o	There is a description of the results for each visualization (7 pt)
-
 •	Males were significantly higher users than other demographics.
 
- 
+![image](https://user-images.githubusercontent.com/117233641/231873283-76ab9058-faa4-47fe-bcdb-4ff27571de60.png)
 
 •	6-10 am and 5-8 PM are peak riding hours during the weekday and 5 am to 10 pm on the weekends.
-o	See Worksheet labeled Trips (Weekday per Hour)
+  o	See Worksheet labeled Trips (Weekday per Hour)
 
-
- 
+![image](https://user-images.githubusercontent.com/117233641/231873355-cb8279fc-c8b9-4c5e-8cb7-16c75566a88b.png)
 
 
 •	Males were high users during the peak hours. 
-•	Males subscribers were the largest usertype by gender
-o	See Worksheet labeled “Trips by Gender (Weekday per Hour)”
 
- 
+•	Males subscribers were the largest usertype by gender
+    o	See Worksheet labeled “Trips by Gender (Weekday per Hour)”
+
+ ![image](https://user-images.githubusercontent.com/117233641/231873415-99a94da2-b55e-450f-8f9d-646739822678.png)
+
 
 2.	Summary:
 
@@ -540,6 +517,7 @@ o	See Worksheet labeled “Trips by Gender (Weekday per Hour)”
 
 The primary function of dashboards is not necessarily to tell a story, but rather to organize and view data in a central location. Dashboards allow us to share data in a way our audience will easily understand, rather than simply showing them a bunch of worksheets.
 
+![image](https://user-images.githubusercontent.com/117233641/231873552-badd8c22-368c-4d9e-adf3-db286605b9d2.png)
  
 
 •	Add a new chart/ worksheet to visually show the “Number of Rides per Hour.” This newly created chart/worksheet, used in conjunction with the existing chart labeled “Trips by Weekday per Hour,” may offer additional data analysis which can assist management and logistics in refining their staffing model, accordingly. 
@@ -547,8 +525,10 @@ The primary function of dashboards is not necessarily to tell a story, but rathe
 o	6-10 am and 5-8 PM are peak riding hours during the weekday, and 5 am to 10 pm on the weekends.
 
 o	Non-peak hours are 1-5 am.
+
 Suggestion: Bike Repairs could be planned during Non-Peak hours. 
 
+![image](https://user-images.githubusercontent.com/117233641/231873702-e9d66578-5b36-4c73-8b8b-be300bd81295.png)
 
  
 
